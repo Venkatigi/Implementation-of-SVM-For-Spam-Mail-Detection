@@ -53,10 +53,15 @@ acc
 ```
 
 ## Output:
+### Data Head:
 ![](1.JPG)
+### Data Info:
 ![](2.JPG)
+### Data Isnull:
 ![](3.JPG)
+
 ![](4.JPG)
+### Accuracy:
 ![](5.JPG)
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
