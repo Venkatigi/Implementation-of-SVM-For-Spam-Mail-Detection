@@ -59,7 +59,7 @@ acc
 ![](2.JPG)
 ### Data Isnull:
 ![](3.JPG)
-
+### Detected Spam:
 ![](4.JPG)
 ### Accuracy:
 ![](5.JPG)
