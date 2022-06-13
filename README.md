@@ -54,9 +54,9 @@ acc
 
 ## Output:
 ![](1.JPG)
-![](2.jpg)
-![](3.jpg)
-![](4.jpg)
-![](5.jpg)
+![](2.JPG)
+![](3.JPG)
+![](4.JPG)
+![](5.JPG)
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
